@@ -1,0 +1,39 @@
+.contenedor-presentacion {
+  width: 1000px;
+  height: 368px;
+  margin: 10px 10px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f6f7;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-presentacion {
+  height: 100%;
+  width: auto;
+  align-items: left;
+}
+
+.contenedor-texto-presentacion {
+  text-align: center;
+  padding: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  line-height: 1.5rem;
+}
+
+.nombre-presentacion {
+  font-size: 1.3rem;
+}
+
+.tecnologias-presentacion {
+  font-size: 1.1rem;
+  margin-top: 15px;
+  padding: 30px;
+}
+
+.texto-presentacion {
+  font-size: 0.9rem;
+  text-align: justify;
+}
